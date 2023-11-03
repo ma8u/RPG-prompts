@@ -1,3 +1,3 @@
-# Pike's Prompts
+# Prompts
 
 A place to share interesting AI prompts I've tinkered with.
